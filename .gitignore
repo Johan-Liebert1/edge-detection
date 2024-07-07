@@ -1,0 +1,6 @@
+*.png
+*.ppm
+bin/
+*.jpg
+stb_image.h
+*.mp4
