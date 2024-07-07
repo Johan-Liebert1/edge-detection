@@ -1,6 +1,6 @@
-*.png
 *.ppm
 bin/
 *.jpg
 stb_image.h
+stb_image_write.h
 *.mp4
